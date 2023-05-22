@@ -31,7 +31,7 @@ nav>a{
     font-size: 20px;
 }
 nav>a:hover{
-    background-color: aliceblue;
+    background-color: rgb(255, 255, 255);
     color: black;
     transition: 0.5s;
 }
@@ -41,7 +41,7 @@ main{
     min-width: 300px;
     max-width: 850px;
     background-position-y: bottom;
-    background-color: blanchedalmond;
+    background-color: rgb(255, 255, 255);
     text-align: center;
 }
 
